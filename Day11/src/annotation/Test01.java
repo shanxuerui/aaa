@@ -16,6 +16,6 @@ public class Test01 {
         //直接给接口引用赋值Lambda表达式
         i1 = ()->System.out.println("给接口引用赋值Lambda表达式");
         i1.mm();
-
+System.out.println("sxr");
     }
 }
