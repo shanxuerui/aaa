@@ -6,6 +6,6 @@ package annotation;
  */
 public class TuiSongTest {
     public static void main(String[] args) {
-        System.out.println("推送Test");
+        System.out.println("pullTest");
     }
 }
